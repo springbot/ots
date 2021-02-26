@@ -22,6 +22,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "libots.h"
+#include <math.h>
 
 /*Grader - using the Term frequency algorithm. Will give each line a score*/
 
